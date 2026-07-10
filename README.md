@@ -1,2 +1,32 @@
-# My-Java-Project
-Quantum Twins is a Java Swing puzzle game where two entangled particles navigate parallel mazes using synchronized movement and quantum reversal mechanics. The code may contain bugs or mistakes. Feel free to explore, improve, or suggest better implementations. Every contribution and piece of feedback is appreciated.
+# Quantum Twins
+
+Quantum Twins is a Java Swing puzzle game inspired by quantum entanglement. Control two particles navigating parallel mazes with synchronized movement, overcome obstacles, and use quantum reversal mechanics to guide both particles to their exits.
+
+## Features
+
+- Two parallel mazes
+- Synchronized particle movement
+- Quantum reversal zones
+- Exit-based puzzle gameplay
+- Built with Java Swing
+
+## Controls
+
+- ↑ Move Up
+- ↓ Move Down
+- ← Move Left
+- → Move Right
+
+## Technologies Used
+
+- Java
+- Java Swing
+- Object-Oriented Programming (OOP)
+
+## Note
+
+This project was developed as a personal learning project. The code may contain bugs or areas for improvement. Feedback, suggestions, and pull requests are always welcome.  
+
+## License
+
+This project is licensed under the MIT License.
