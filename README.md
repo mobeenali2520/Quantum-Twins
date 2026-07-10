@@ -28,5 +28,27 @@ Quantum Twins is a Java Swing puzzle game inspired by quantum entanglement. Cont
 This project was developed as a personal learning project. The code may contain bugs or areas for improvement. Feedback, suggestions, and pull requests are always welcome.  
 
 ## License
-
 This project is licensed under the MIT License.
+
+
+## Screenshots
+### Welcome Screen
+
+![Welcome Screen](WellComescreen.png)
+
+
+### Main Level
+![Level 1](Level1.png)
+
+
+### Level Selection
+![Levels](Levels.png)
+
+
+### Level Complete
+![Level Complete](LevelComplete.png)
+
+### Level Failed
+
+![Level Failed](LevelFailed.png)
+
