@@ -34,7 +34,7 @@ This project is licensed under the MIT License.
 ## Screenshots
 ### Welcome Screen
 
-![Welcome Screen](WellComescreen.png)
+![Welcome Screen](Wellcomescreen.png)
 
 
 ### Main Level
